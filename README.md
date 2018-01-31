@@ -1,2 +1,6 @@
 # hello-world
-just another reposity
+
+Hi Humans!
+
+Goldwh here, I like machine-learning
+
